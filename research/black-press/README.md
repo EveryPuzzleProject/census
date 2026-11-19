@@ -28,8 +28,19 @@ puzzles; the Journal and Guide's carry the titles of Nos. 1 and 3 of the series 
 Hancock Democrat (Greenfield, Indiana) printed it from 1924-12-04
 ([hancockdemocrat](https://github.com/EveryPuzzleProject/hancockdemocrat)); and the
 Afro's last six are in the same type with a bare copyright line. Only the Courier's
-attribution is printed; the others rest on matching titles and type, and no grids have been
-compared yet.
+attribution is printed; the others rest on matching titles and type.
+
+**Grids compared, 2026-11-19** (patterns read by xword-ocr's grid finder from the saved
+pages): the Journal and Guide's "The Four Angles" is the Democrat's No. 3 (4 of 169 squares
+read differently) and its "Stepping Stones" is probably the Democrat's No. 1 (11 of 121
+differ, all in the faint upper half of the Democrat's scan). So those two papers carried one
+series. Nothing else matched: not the Courier's seven Western Newspaper Union grids against
+the Democrat's Nos. 1 to 4 and 6, not the Afro's six against either, and the Afro's and the
+Courier's 11x11 grids of the same Saturday (1925-02-21) are different puzzles. That last
+point means the Afro and the Courier were not printing the same puzzle the same week. The
+rest proves nothing either way, because the Courier's and the Afro's weeks (late January to
+March 1925) are later than any Democrat page saved. **Wanted: The Hancock Democrat,
+1925-01-15 to 03-28** (its Nos. 7 to 17), to compare with both.
 
 So the date to beat is **October 18, 1924**. Two ways it could be beaten:
 
