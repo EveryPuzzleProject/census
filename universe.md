@@ -48,7 +48,7 @@ already preserved. This part is rebuilt automatically.
 <!-- universe:start -->
 | Kind | Entries | With a puzzle count |
 |---|---|---|
-| newspaper | 53 | 0 |
+| newspaper | 57 | 0 |
 | magazine | 20 | 0 |
 | book | 2 | 0 |
 | website | 49 | 0 |
