@@ -7,7 +7,7 @@ crosswords:
   first: "1925-01-31 (at the latest)"
   last: unknown
   frequency: weekly (Saturday), on the society page
-  constructors: none named; a bought-in series, very likely the Western Newspaper Union's
+  constructors: none named; a bought-in series, probably the Western Newspaper Union's
 sources:
   - where: page scans downloaded by Alex DeJarnatt, 2026-11-19 (file names in Newspapers.com's form, under the later name "New Journal and Guide"; source to confirm)
     covers: two sample pages, 1925-01-31 and 1925-02-07
@@ -36,8 +36,8 @@ Nos. 1 and 3 of a numbered series that The Hancock Democrat of Greenfield, India
 on 1924-12-04 ([hancockdemocrat](https://github.com/EveryPuzzleProject/hancockdemocrat));
 the Guide printed them about eight weeks later, without the numbers. The Pittsburgh
 Courier's puzzles in the same type carry "(© by Western Newspaper Union.)"
-([pittsburgh-courier.md](pittsburgh-courier.md)), so the series is very likely that
-syndicate's; the grids haven't been compared.
+([pittsburgh-courier.md](pittsburgh-courier.md)), so the series is probably that
+syndicate's. The grids were compared on 2026-11-19: "The Four Angles" is the Democrat's No. 3, and "Stepping Stones" probably its No. 1; no page yet ties the series to the syndicate by name.
 
 Open questions: when the feature began (January 31 is the earliest page saved, not a
 known start) and ended; whether the Guide printed the series out of order.
