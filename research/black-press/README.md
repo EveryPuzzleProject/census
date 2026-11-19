@@ -39,8 +39,32 @@ the Democrat's Nos. 1 to 4 and 6, not the Afro's six against either, and the Afr
 Courier's 11x11 grids of the same Saturday (1925-02-21) are different puzzles. That last
 point means the Afro and the Courier were not printing the same puzzle the same week. The
 rest proves nothing either way, because the Courier's and the Afro's weeks (late January to
-March 1925) are later than any Democrat page saved. **Wanted: The Hancock Democrat,
-1925-01-15 to 03-28** (its Nos. 7 to 17), to compare with both.
+March 1925) are later than any Democrat page saved. The Hancock Democrat can't supply
+the later numbers: its run ends with No. 6 on 1925-01-08 (Alex DeJarnatt, search of the
+paper, 2026-11-19).
+
+**Other carriers, free at the Library of Congress (found 2026-11-19 in its page text):**
+
+- **The Planet's puzzles were syndicated.** The Carbon County News (Red Lodge, Montana),
+  1925-01-22 page 3, has "THIS WEEK'S CROSS WORD PUZZLE ... by Magdalene Tuck", "a time
+  limit test" to be worked "in not less than seven minutes": the Richmond Planet's puzzle
+  of 1925-01-24, two days earlier in a white Montana weekly
+  (https://www.loc.gov/resource/sn84036285/1925-01-22/ed-1/?sp=3). So "a different reader
+  every week" was a service's feature, not the Planet's readers, at least by January 1925.
+  Whether Cedric C. French's first puzzle of 1924-10-18, "arranged ... for this newspaper",
+  was the service's too decides whether the earliest crossword in a Black newspaper was made
+  for one. **Next: look for the October and November 1924 puzzles in the Carbon County News
+  and its neighbours.**
+- **The Democrat's series** is in The Harlem News (Harlem, Montana): "THE HEAVENLY
+  STAIRWAY", the Democrat's No. 2, on 1924-12-12 page 9
+  (https://www.loc.gov/resource/sn86075250/1924-12-12/ed-1/?sp=9).
+- A search of all papers for "cross-word puzzle no" from 1925-01-09 to 04-30 returns 678
+  pages, with weekly runs in The Producers News (Plentywood), The Ronan Pioneer, The Carbon
+  County News and The Harlem News, all Montana, and a daily run in the Daily Kennebec
+  Journal (Augusta, Maine). Not opened except as above. These are the place to find the
+  series' later numbers and a syndicate's name.
+
+Both readings are from OCR text; neither page image has been looked at.
 
 So the date to beat is **October 18, 1924**. Two ways it could be beaten:
 
