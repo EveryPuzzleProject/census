@@ -13,7 +13,7 @@ the count, a map of which decades and kinds are covered, and the register as a
 table you can sort and filter.
 
 <!-- census:start -->
-**132 publications so far** (18 lead, 5 researched, 2 harvesting, 1 blitzing, 106 in the corpus).
+**133 publications so far** (18 lead, 5 researched, 3 harvesting, 1 blitzing, 106 in the corpus).
 <!-- census:end -->
 
 How many should there be? Nobody knows yet, and that number is part of what
@@ -222,6 +222,7 @@ and lists the years it has puzzles from.
 | [Yale Public Humanities](publications/yale-public-humanities.md) | website | US | 2021–ongoing | 21 · 2021–2026 | [its own site](https://publichumanitiespuzzles.github.io/) | corpus |
 | [Judge](publications/judge.md) | magazine | New York | 1924–1925 · 3 sightings | 531 · 1924–1939 | [Internet Archive](https://archive.org/details/pub_judge), [newspapers carrying "Cross Word Funnies, selected by Judge" (copyright 1925)](https://www.newspapers.com/) | blitzing |
 | [GAMES](publications/games.md) | magazine | US | 1977–ongoing |  | [Internet Archive](https://archive.org/details/games_magazine) | harvesting |
+| [Richmond Planet](publications/richmond-planet.md) | newspaper | Richmond, Virginia | 1924–1925 · 3 sightings |  | page scans downloaded by Alex DeJarnatt, 2026-11-19 (the file names are in Newspapers.com's form; source to confirm) | harvesting |
 | [The Afro-American (Baltimore)](publications/baltimore-afro-american.md) | newspaper | Baltimore, Maryland | 1924–1925 · 3 sightings |  | page scans downloaded by Alex DeJarnatt, 2026-11-19 (the file names are in Newspapers.com's form; source to confirm), [ProQuest Historical Black Newspapers (the Baltimore Afro-American is one of its 14 titles)](https://about.proquest.com/en/products-services/histnews-bn) | harvesting |
 | [Newport Mercury](publications/newport-mercury.md) | newspaper | Newport, Rhode Island | 1925–1926 · 9 sightings |  | [Newspapers.com Northeast Collection (library edition, via Newport Public Library)](http://newspaperslibrary.proquest.com/) | researched |
 | [The Daily Collegian (Penn State)](publications/daily-collegian-penn-state.md) | newspaper | State College, Pennsylvania | 1976–1981 · 4 sightings |  | [Historical Digital Collegian Archive (Penn State University Libraries)](https://libraries.psu.edu/databases/psu00795) | researched |
