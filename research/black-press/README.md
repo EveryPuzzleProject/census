@@ -95,7 +95,10 @@ words anywhere. The site answers a burst of requests with a "Just a moment..." p
 **2026-11-19, `puzzle`, 1924-10-18 to 1924-12-31:** 19 pages: the Richmond Planet's
 (including 1924-11-08 page 6, a Saturday missing from the saved scans), The Savannah
 Tribune 1924-11-06 page 8, and The Northwestern Bulletin-Appeal 1924-11-15 and 11-29 page 2.
-The last three were not opened.
+The last three were then read in the OCR text and none is a puzzle: the Savannah Tribune's
+is a football report (a runner's change of pace "seemed to completely puzzle" the other
+side), the Bulletin-Appeal's of 11-15 is a news filler headed "WHERE ALL NICKELS COME FROM
+PUZZLE", and its 11-29 page has "the puzzled men of science" in an article.
 
 **What this does and doesn't show.** No crossword earlier than the Planet's turned up, but
 this was a keyword search of OCR text, and a crossword can sit on a page under a heading the
@@ -103,8 +106,11 @@ OCR garbles or that never says "puzzle". It is not a search of the pages.
 
 ## Next
 
-- Open the Savannah Tribune and Northwestern Bulletin-Appeal pages from late 1924: either
-  could be a third Black paper with a crossword that autumn.
+- In late 1924 the word "puzzle" appears in the Library's Black papers only in the Richmond
+  Planet, apart from three false alarms. So the keyword route is used up for 1924: the
+  papers that had no hit (Broad Ax, Monitor, Gazette, Washington Tribune) are either without
+  a crossword that autumn or have one the OCR missed, and only paging through settles which.
+  Extend the same search into 1925 first: it is cheap and the craze peaks then.
 - Open the Washington Tribune's page 7 across 1921–23: a puzzle department with Black-history
   answers three years before the craze is worth its own entry, crossword or not.
 - Open Richmond Planet 1924-06-21 page 4.
