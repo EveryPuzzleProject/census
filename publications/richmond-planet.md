@@ -37,16 +37,20 @@ solved grid beside it. 39 pages are saved, holding 38 different puzzles (October
 reprints the first with its answer); solved grids show that at least four of the five
 Saturdays with no page saved had a puzzle too.
 
-**Where the puzzles came from is open.** One maker signs from Hampton Institute, but
-others are placed in Great Bend, Kansas (1925-02-28, "We do not have the name of the
-originator"), Newport, Oregon (04-18) and Timpson, Texas (06-13). Two grids carry a
-number, "No. 16" (02-21) and "No. 17" (02-28), where the Planet's own count would be 18
-and 19. That fits a service supplying readers' puzzles to many papers, at least from
-early 1925, but no copyright or syndicate line appears near any grid.
+**The puzzles were a syndicated feature, at least from January 1925.** The Carbon
+County News of Red Lodge, Montana, printed "THIS WEEK'S CROSS WORD PUZZLE ... by
+Magdalene Tuck", "a time limit test", on 1925-01-22: the Planet's puzzle of 01-24 (read in
+the Library of Congress's page text,
+https://www.loc.gov/resource/sn84036285/1925-01-22/ed-1/?sp=3; images not compared). The
+other signs agree: makers placed in Great Bend, Kansas, Newport, Oregon and Timpson,
+Texas, and grid numbers "No. 16" (02-21) and "No. 17" (02-28) where the Planet's own count
+would be 18 and 19. Which service it was is not known; no copyright or syndicate line
+appears near any grid. Whether the first puzzles of October 1924, presented as made for
+the Planet, were the service's too is the open question.
 
 The Afro-American of Baltimore ran its own puzzle over the same winter
 ([baltimore-afro-american.md](baltimore-afro-american.md)).
 
-Open questions: the source of the puzzles, and whether the early ones were local;
+Open questions: which service supplied the puzzles, and whether the early ones were local;
 who the makers were; when the feature ended (1925-08-22 hasn't been seen); the five
 Saturdays with no page saved.
