@@ -16,6 +16,21 @@ not found.
 | Richmond Planet (Richmond, Va.) | **1924-10-18**: "the first of the popular cross-word puzzles which will now be featured in The Planet", "arranged by Mr. Cedric C. French for this newspaper" | [richmondplanet](https://github.com/EveryPuzzleProject/richmondplanet) |
 | The Afro-American (Baltimore) | 1924-12-13, on the Magazine Page "edited by Afro's woman editor" | [afroamerican](https://github.com/EveryPuzzleProject/afroamerican) |
 
+| The Pittsburgh Courier | 1925-01-17, "CROSS WORD PUZZLE—NO. 1", apparently home-made; from No. 2 (01-24) "(© by Western Newspaper Union.)" | [pittsburghcourier](https://github.com/EveryPuzzleProject/pittsburghcourier) |
+| Norfolk Journal and Guide | 1925-01-31 at the latest: "Stepping Stones", "(Copyright, 1924.)", a bought-in series | [journalandguide](https://github.com/EveryPuzzleProject/journalandguide) |
+
+**The pattern so far, four papers:** each of the three with its start saved began with a
+puzzle of its own (the Planet's "arranged ... for this newspaper", the Afro's hand-ruled
+grids and reader contributors, the Courier's hand-numbered No. 1), and the Afro and the
+Courier then moved to a syndicate's within weeks. The syndicate is the Western Newspaper
+Union, which sold a numbered, titled series to small weeklies: it is named on the Courier's
+puzzles; the Journal and Guide's carry the titles of Nos. 1 and 3 of the series as The
+Hancock Democrat (Greenfield, Indiana) printed it from 1924-12-04
+([hancockdemocrat](https://github.com/EveryPuzzleProject/hancockdemocrat)); and the
+Afro's last six are in the same type with a bare copyright line. Only the Courier's
+attribution is printed; the others rest on matching titles and type, and no grids have been
+compared yet.
+
 So the date to beat is **October 18, 1924**. Two ways it could be beaten:
 
 1. **Syndication**: a Black paper that carried someone else's crossword earlier, as the
