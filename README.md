@@ -13,7 +13,7 @@ the count, a map of which decades and kinds are covered, and the register as a
 table you can sort and filter.
 
 <!-- census:start -->
-**135 publications so far** (18 lead, 5 researched, 5 harvesting, 1 blitzing, 106 in the corpus).
+**143 publications so far** (19 lead, 12 researched, 5 harvesting, 1 blitzing, 106 in the corpus).
 <!-- census:end -->
 
 How many should there be? Nobody knows yet, and that number is part of what
@@ -76,7 +76,9 @@ additions are welcome.
   (who supplied the thousands of small weeklies, and why Editor & Publisher
   doesn't show it), [publication directories as a source](research-notes-directories.md),
   [the Boston Globe's double-puzzle Sundays](research-notes-boston-globe-doubles.md),
-  and [leads and access notes](research-notes-leads-2026-10-18.md).
+  [leads and access notes](research-notes-leads-2026-10-18.md), and
+  [Newspaper Navigator as a crossword finder](research-notes-newspaper-navigator.md)
+  (a Library of Congress dataset that filed thousands of crosswords as maps).
 
 ## How to help
 
@@ -226,17 +228,25 @@ and lists the years it has puzzles from.
 | [Richmond Planet](publications/richmond-planet.md) | newspaper | Richmond, Virginia | 1924–1925 · 3 sightings |  | page scans downloaded by Alex DeJarnatt, 2026-11-19 (the file names are in Newspapers.com's form; source to confirm) | harvesting |
 | [The Afro-American (Baltimore)](publications/baltimore-afro-american.md) | newspaper | Baltimore, Maryland | 1924–1925 · 3 sightings |  | page scans downloaded by Alex DeJarnatt, 2026-11-19 (the file names are in Newspapers.com's form; source to confirm), [ProQuest Historical Black Newspapers (the Baltimore Afro-American is one of its 14 titles)](https://about.proquest.com/en/products-services/histnews-bn) | harvesting |
 | [The Pittsburgh Courier](publications/pittsburgh-courier.md) | newspaper | Pittsburgh, Pennsylvania | 1925–1927 · 4 sightings |  | page scans downloaded by Alex DeJarnatt, 2026-11-19 (file names in Newspapers.com's form, under the later name "New Pittsburgh Courier"; source to confirm), [ProQuest Historical Black Newspapers (the Pittsburgh Courier is one of its 14 titles)](https://about.proquest.com/en/products-services/histnews-bn) | harvesting |
+| [Bismarck Tribune](publications/bismarck-tribune.md) | newspaper | Bismarck, North Dakota | 1924–1937 · 3 sightings |  | [Library of Congress, Chronicling America (LCCN sn85042243)](https://www.loc.gov/item/sn85042243/) | researched |
+| [Coconino Sun](publications/coconino-sun.md) | newspaper | Flagstaff, Arizona | 1924–1926 · 3 sightings |  | [Library of Congress, Chronicling America (LCCN sn87062055)](https://www.loc.gov/item/sn87062055/) | researched |
+| [Evening Star (Washington)](publications/evening-star-washington.md) | newspaper | Washington, D.C. | 1924–1950 · 6 sightings |  | [Library of Congress, Chronicling America (LCCN sn83045462)](https://www.loc.gov/item/sn83045462/) | researched |
+| [Indianapolis Times](publications/indianapolis-times.md) | newspaper | Indianapolis, Indiana | 1924–1935 · 3 sightings |  | [Library of Congress, Chronicling America (LCCN sn82015313)](https://www.loc.gov/item/sn82015313/) | researched |
+| [New Britain Herald](publications/new-britain-herald.md) | newspaper | New Britain, Connecticut | 1924–1930 · 3 sightings |  | [Library of Congress, Chronicling America (LCCN sn82014519)](https://www.loc.gov/item/sn82014519/) | researched |
 | [Newport Mercury](publications/newport-mercury.md) | newspaper | Newport, Rhode Island | 1925–1926 · 9 sightings |  | [Newspapers.com Northeast Collection (library edition, via Newport Public Library)](http://newspaperslibrary.proquest.com/) | researched |
 | [The Daily Collegian (Penn State)](publications/daily-collegian-penn-state.md) | newspaper | State College, Pennsylvania | 1976–1981 · 4 sightings |  | [Historical Digital Collegian Archive (Penn State University Libraries)](https://libraries.psu.edu/databases/psu00795) | researched |
 | [The Daily Pennsylvanian](publications/daily-pennsylvanian.md) | newspaper | Philadelphia | unknown–ongoing |  | [Daily Pennsylvanian archives (University of Pennsylvania Libraries)](https://dparchives.library.upenn.edu/) | researched |
 | [The Stanford Daily](publications/stanford-daily.md) | newspaper | Stanford, California | 1935–ongoing |  | [Stanford Daily Archives (run by The Daily)](https://archives.stanforddaily.com/) | researched |
 | [The Tech (MIT)](publications/the-tech-mit.md) | newspaper | Cambridge, Massachusetts | unknown–ongoing |  | [The Tech website, historical issues](https://thetech.com/issues), [Internet Archive (MIT The Tech collection)](https://archive.org/details/mit_the_tech) | researched |
+| [Times-News (Hendersonville)](publications/hendersonville-times-news.md) | newspaper | Hendersonville, North Carolina | 1933–1938 · 3 sightings |  | [Library of Congress, Chronicling America (LCCN sn86063811)](https://www.loc.gov/item/sn86063811/) | researched |
+| [Wilmington Morning Star](publications/wilmington-morning-star.md) | newspaper | Wilmington, North Carolina | 1940–1947 · 3 sightings |  | [Library of Congress, Chronicling America (LCCN sn78002169)](https://www.loc.gov/item/sn78002169/) | researched |
 | [Bard Bulletin (probably Bard High School Early College)](publications/bard-bulletin.md) | newspaper | New York | unknown |  | **Unknown: can you help?** | lead |
 | [Buffalo Courier](publications/buffalo-courier.md) | newspaper | Buffalo, New York | 1920–1925 · 2 sightings |  | [Newspapers.com (filed under "Buffalo Courier Express", the name after the 1926 merger with the Buffalo Express)](https://www.newspapers.com/) | lead |
 | [Daily Bruin (UCLA)](publications/daily-bruin.md) | newspaper | Los Angeles | 2000 · 1 sighting |  | **Unknown: can you help?** | lead |
 | [Detroit Free Press](publications/detroit-free-press.md) | newspaper | Detroit, Michigan | 1919–1920 · 1 sighting |  | [Newspapers.com](https://www.newspapers.com/) | lead |
 | [Los Angeles Daily News (1923–1954)](publications/los-angeles-daily-news-1923.md) | newspaper | Los Angeles | 1941 · 1 sighting |  | **Unknown: can you help?** | lead |
 | [Los Angeles Sunday Tribune](publications/los-angeles-sunday-tribune.md) | newspaper | Los Angeles, California | 1916–1917 · 3 sightings |  | [Newspapers.com](https://www.newspapers.com/) | lead |
+| [Midland Journal](publications/midland-journal.md) | newspaper | Rising Sun, Maryland | 1924–1934 · 2 sightings |  | [Library of Congress, Chronicling America (LCCN sn89060136)](https://www.loc.gov/item/sn89060136/) | lead |
 | [New Orleans States](publications/new-orleans-states.md) | newspaper | New Orleans, Louisiana | 1917 · 2 sightings |  | [Newspapers.com](https://www.newspapers.com/) | lead |
 | [Omaha Daily News](publications/omaha-daily-news.md) | newspaper | Omaha, Nebraska | 1920 · 1 sighting |  | [Newspapers.com](https://www.newspapers.com/) | lead |
 | [Orange and White (University of Tennessee; now The Daily Beacon)](publications/orange-and-white-tennessee.md) | newspaper | Knoxville, Tennessee | 1925–unknown |  | [UT Libraries Digital Collections (Daily Beacon / Orange and White issues)](https://volopedia.lib.utk.edu/entries/daily-beacon) | lead |
