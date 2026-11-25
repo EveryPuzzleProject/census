@@ -69,3 +69,22 @@ each was read against the scan.
   Ohio): printed clearly both times, from two towns. It may be a real name or a pen name;
   nothing found yet. Possibly tied to the Ridgefield Woodward bylines and to
   [Margaret Shane](margaret-shane.md), who may have been born a Woodward.
+
+## The Afro-American (Baltimore), 1924–25
+
+Readers credited with puzzles on the Afro's Magazine Page; see
+[publications/baltimore-afro-american.md](../publications/baltimore-afro-american.md).
+
+- **Georgeanna McMechen, 2007 McCulloh street** ("Contributed by", 1925-02-14): one of
+  the four daughters (Mildred, Edythe, Katherine, Georgeanna) of George W. F. McMechen
+  and his wife Mildred, per a look-up by Alex DeJarnatt, 2026-11-19 (source not yet
+  recorded here). George W. F. McMechen was the Black lawyer whose move to McCulloh
+  Street in 1910 set off Baltimore's residential segregation ordinance (recalled, not
+  yet cited). A "Georgia McMechen" is among the honorable mentions for solving on
+  1924-12-27, with no address printed: probably the same person. George's sisters were
+  Ada, Emma, Mary, Lelia and Ethel, so none of them is the Georgia.
+- **A. B. Koger, 4419 Craddock avenue** ("Submitted by", 1925-01-10): possibly A. Briscoe
+  Koger, a Black Baltimore lawyer and writer on Black Maryland history (recalled, not
+  checked). A "Linwood R. Koger" is among the honorable mentions on 1925-02-07.
+- **John E. Cole, Jr., 514 Pressman street** ("Submitted by", 1925-01-24): not looked up.
+- **"The janitor at School No. 100"** (1925-02-07): not named.

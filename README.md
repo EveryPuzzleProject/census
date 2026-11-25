@@ -13,7 +13,7 @@ the count, a map of which decades and kinds are covered, and the register as a
 table you can sort and filter.
 
 <!-- census:start -->
-**139 publications so far** (19 lead, 12 researched, 1 harvesting, 1 blitzing, 106 in the corpus).
+**143 publications so far** (19 lead, 12 researched, 5 harvesting, 1 blitzing, 106 in the corpus).
 <!-- census:end -->
 
 How many should there be? Nobody knows yet, and that number is part of what
@@ -224,6 +224,10 @@ and lists the years it has puzzles from.
 | [Yale Public Humanities](publications/yale-public-humanities.md) | website | US | 2021–ongoing | 21 · 2021–2026 | [its own site](https://publichumanitiespuzzles.github.io/) | corpus |
 | [Judge](publications/judge.md) | magazine | New York | 1924–1925 · 3 sightings | 531 · 1924–1939 | [Internet Archive](https://archive.org/details/pub_judge), [newspapers carrying "Cross Word Funnies, selected by Judge" (copyright 1925)](https://www.newspapers.com/) | blitzing |
 | [GAMES](publications/games.md) | magazine | US | 1977–ongoing |  | [Internet Archive](https://archive.org/details/games_magazine) | harvesting |
+| [Norfolk Journal and Guide](publications/norfolk-journal-and-guide.md) | newspaper | Norfolk, Virginia | 1925 · 2 sightings |  | page scans downloaded by Alex DeJarnatt, 2026-11-19 (file names in Newspapers.com's form, under the later name "New Journal and Guide"; source to confirm), [ProQuest Historical Black Newspapers (the Norfolk Journal and Guide is one of its 14 titles)](https://about.proquest.com/en/products-services/histnews-bn) | harvesting |
+| [Richmond Planet](publications/richmond-planet.md) | newspaper | Richmond, Virginia | 1924–1925 · 3 sightings |  | page scans downloaded by Alex DeJarnatt, 2026-11-19 (the file names are in Newspapers.com's form; source to confirm) | harvesting |
+| [The Afro-American (Baltimore)](publications/baltimore-afro-american.md) | newspaper | Baltimore, Maryland | 1924–1925 · 3 sightings |  | page scans downloaded by Alex DeJarnatt, 2026-11-19 (the file names are in Newspapers.com's form; source to confirm), [ProQuest Historical Black Newspapers (the Baltimore Afro-American is one of its 14 titles)](https://about.proquest.com/en/products-services/histnews-bn) | harvesting |
+| [The Pittsburgh Courier](publications/pittsburgh-courier.md) | newspaper | Pittsburgh, Pennsylvania | 1925–1927 · 4 sightings |  | page scans downloaded by Alex DeJarnatt, 2026-11-19 (file names in Newspapers.com's form, under the later name "New Pittsburgh Courier"; source to confirm), [ProQuest Historical Black Newspapers (the Pittsburgh Courier is one of its 14 titles)](https://about.proquest.com/en/products-services/histnews-bn) | harvesting |
 | [Bismarck Tribune](publications/bismarck-tribune.md) | newspaper | Bismarck, North Dakota | 1924–1937 · 3 sightings |  | [Library of Congress, Chronicling America (LCCN sn85042243)](https://www.loc.gov/item/sn85042243/) | researched |
 | [Coconino Sun](publications/coconino-sun.md) | newspaper | Flagstaff, Arizona | 1924–1926 · 3 sightings |  | [Library of Congress, Chronicling America (LCCN sn87062055)](https://www.loc.gov/item/sn87062055/) | researched |
 | [Evening Star (Washington)](publications/evening-star-washington.md) | newspaper | Washington, D.C. | 1924–1950 · 6 sightings |  | [Library of Congress, Chronicling America (LCCN sn83045462)](https://www.loc.gov/item/sn83045462/) | researched |
